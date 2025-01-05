@@ -1,0 +1,5 @@
+# environment variables
+
+backend_rg_name: "example-rg-name"
+storage_account_name: "saexamplename"
+container_name: "examplecontainername"
